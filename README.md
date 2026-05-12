@@ -7,4 +7,3 @@ CipherGuard Pro is a Python-based password security analyzer and hash generator 
 - hashlib
 - pyperclip
 - regex
-- pyperclip
